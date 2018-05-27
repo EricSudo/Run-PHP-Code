@@ -8,46 +8,37 @@ Run PHP Code
 Learn install
 ============
 
-- در ابتدا یک پوشه در هاست خود به نام <b>php</b> بسازید.
-- Extract the Run PHP Code files into it. 
-- Bookmark the URL for easy access.
-- Bonus points for cloning the repository instead and pulling once in a while.
-- <b>If you get a blank screen</b> you are probably not accessing Run PHP Code from 127.0.0.1.  This is a security feature.  Add your IP address to line 13 of index.php.
+- در ابتدا یک پوشه در هاست خود ایجاد کنید
+- حالا اطلاعات داخل فایل فشرده دانلود شده را در آن کپی کنید
+- حالا فایل ایندکس را اجرا کنید
 
-<b>This application is meant to be run locally and should not be made publicly accessible.</b>
+توجه
+----
+<b>اگر یک صفحه خالی دریافت کنید</b><br>
+از 127.0.0.1 دسترسی نخواهید داشت PHP احتمالا به اجرای کد
+<br>.این یک ویژگی امنیتی است
+<br> اضافه کنید index.php خود را در خط 13 در فایل IP برای رفع این مشکل
 
 ![screenshot](https://github.com/EricSudo/Run-PHP-Code/raw/master/img/screenshot.png)  
 
-Features
+امکانات
 --------
-- Ace code editor
-- Import gists from GitHub
-- Import pastes from PasteBin and Pastie
-- Run code in the same window or a separate window
+- ویرایشگر حرفه ای و زیبا
+- Pastie و PasteBin و GitHub وارد کردن کد از
+- میتوانید کد را در همان پنجره یا یک پنجره جداگانه اجرا کنید
 
-Tips
+نکته
 ----
-- Pressing Ctrl-Enter will run your code.
-- Ace supports multiple cursors, just hold ctrl and click where you want your cursors.
-- This app comes with Font Awesome, so you can use the icons in your code. Simply include the css file: `<link rel="stylesheet" href="css/font-awesome.min.css">`
+- کد خود را اجرا کنید Ctrl-Enter میتوانید با فشار دادن دکمه های
+- این برنامه به صورت محلی اجرا می شود و نباید در دسترس عموم قرار گیرد
+- را نگه دارید و مکان مورد نظر خود را کلیک کنید Ctrl این ویرایشگر چندین نشانگر را پشتیبانی می کند، فقط کافی است دکمه
+- فراخوانی کنید CSS همراه است، بنابراین شما می توانید از آیکون ها در کد خود استفاده کنید. به سادگی فایل Font Awesome این برنامه با
+- `<link rel="stylesheet" href="css/font-awesome.min.css">`
 
-### Run PHP Code utilizes the following projects:
+info
+======
 
----
-
-<a href="http://ace.ajax.org">Ace</a>  
-Copyright (c) 2010, Ajax.org B.V.  
-Licensed under the <a href="http://www.opensource.org/licenses/bsd-license.php">BSD License</a>
-
-<a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>  
-Font Awesome by Dave Gandy  
-Code Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>  
-Fonts Licensed under the <a href="http://scripts.sil.org/OFL">SIL OFL 1.1 License</a>
-
-<a href="http://knockoutjs.com/">Knockout</a>  
-Copyright (c) Steven Sanderson, the Knockout.js team, and other contributors  
-Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>
-
-<a href="http://jquery.com/">jQuery</a>  
-Copyright 2014 jQuery Foundation and other contributors  
-Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>
+ - <b>Script Name</b> : Run PHP Code
+ - <b>Created By</b> :  [{ Eric }](https://t.me/SudoEric)
+ - <b>Channel</b> : [@PvEric](https://t.me/SudoEric)
+ 
