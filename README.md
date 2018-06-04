@@ -40,5 +40,5 @@ info
 
  - <b>Script Name</b> : Run PHP Code
  - <b>Created By</b> :  [{ Eric }](https://t.me/SudoEric)
- - <b>Channel</b> : [@PvEric](https://t.me/SudoEric)
+ - <b>Channel</b> : [@PvEric](https://t.me/PvEric)
  
